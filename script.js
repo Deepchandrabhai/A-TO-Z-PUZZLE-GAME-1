@@ -83,7 +83,7 @@ function showCongratulations() {
 }
 
 function playSound() {
-  const audio = new Audio("https://www.soundjay.com/button/beep-07.wav");
+  const audio = new Audio("");
   audio.play();
 }
 
